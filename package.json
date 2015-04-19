@@ -1,0 +1,37 @@
+{
+  "name": "gravity-ui-radium",
+  "version": "0.0.5",
+  "description": "A Flat UI Framework based on react and FormidableLabs/Radium toolchains for css-free react development",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NormalGravity/Radium-Flat.git"
+  },
+  "keywords": [
+    "Radium",
+    "React",
+    "Flat-UI",
+    "CommonJS"
+  ],
+  "author": "Brian Vanderbusch <brian@normalgravity.com> (https://github.com/LongLiveCHIEF)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NormalGravity/Radium-Flat/issues"
+  },
+  "homepage": "https://github.com/NormalGravity/Radium-Flat",
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "radium": "^0.10.1",
+    "react": "^0.13.2"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "chai": "^2.2.0",
+    "http-server": "^0.8.0",
+    "jshint": "^2.7.0",
+    "mocha": "^2.2.4"
+  }
+}
